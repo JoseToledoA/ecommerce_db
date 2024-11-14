@@ -20,6 +20,7 @@ Sigue estos pasos para configurar la base de datos:
 ### 1. Clonar el repositorio
 
 git clone url_del_repositorio
+
 cd  nombre_del_repositorio
 
 ### 2. Crear la base de datos y definir las tablas
